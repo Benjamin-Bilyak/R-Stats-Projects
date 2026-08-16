@@ -308,4 +308,4 @@ https://github.com/Benjamin-Bilyak/R-Stats-Projects
 
 This project is available under the **MIT License**.
 
-See the `LICENSE` file for further information.
+See the [LICENSE](LICENSE) file for further information.
