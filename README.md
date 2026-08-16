@@ -22,6 +22,10 @@ Rather than only displaying formulas, the application allows the user to interac
 The project was built using R and the Shiny framework, with interactive visualisations created using Plotly and ggplot2.
 
 ---
+## Live App
+
+🚀 **[Launch SimLab](https://benjamin-bilyak.shinyapps.io/SimLab/)**
+---
 
 ## Modules
 
