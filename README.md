@@ -196,23 +196,23 @@ SimLab will then open locally in your web browser.
 
 ### Home
 
-![SimLab Home](screenshots/home.png)
+![SimLab Home](SimLab/screenshots/home.png)
 
 ### Aggregate Loss Simulator
 
-![Aggregate Loss Simulator](screenshots/aggregate-loss.png)
+![Aggregate Loss Simulator](SimLab/screenshots/aggregate-loss.png)
 
 ### Galton Board
 
-![Galton Board](screenshots/galton-board.png)
+![Galton Board](SimLab/screenshots/galton-board.png)
 
 ### Distribution Explorer
 
-![Distribution Explorer](screenshots/distribution-explorer.png)
+![Distribution Explorer](SimLab/screenshots/distribution-explorer.png)
 
 ### π Estimator
 
-![Pi Estimator](screenshots/pi-estimator.png)
+![Pi Estimator](SimLab/screenshots/pi-estimator.png)
 
 ---
 
