@@ -196,7 +196,7 @@ SimLab will then open locally in your web browser.
 
 ### Home
 
-![SimLab Home](SimLab/screenshots/home.png)
+![SimLab Home](SimLab/screenshots/Home.png)
 
 ### Aggregate Loss Simulator
 
