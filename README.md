@@ -158,7 +158,7 @@ Alternatively, the repository can be cloned using **GitHub Desktop**.
 Navigate into the cloned repository:
 
 ```bash
-cd R-Stats-Projects
+cd R-Stats-Projects/SimLab
 ```
 
 ---
